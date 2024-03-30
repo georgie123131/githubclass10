@@ -1,0 +1,7 @@
+/** add your media queries here **/
+@media (min-width: 800px){
+  section#two video.fullscreen-video {
+    width: 100%;
+    height: auto;
+  }
+}
